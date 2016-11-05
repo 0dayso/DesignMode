@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\Design\Design\bin\Debug\Design.exe.config
+D:\工程\惠信\23种设计模式示例源码\Design\bin\Debug\Design.exe.config
